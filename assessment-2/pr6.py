@@ -2,6 +2,6 @@ num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 
 if num1 > 0 and num2 > 0:
-    print("Both numbers are positive")
+    print("Both numbers are positive ,so condition is true")
 else:
-    print("Both numbers are not positive")
+    print("Both numbers are not positive, so condition is false")

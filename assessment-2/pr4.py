@@ -1,7 +1,6 @@
 num = int(input("Enter a number: "))
 
-square = num * num
-cube = num * num * num
 
-print("Square is:", square)
-print("Cube is:", cube)
+
+print("Square is:", num**2)
+print("Cube is:", num**3)

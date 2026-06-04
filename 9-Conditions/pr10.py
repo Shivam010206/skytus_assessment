@@ -10,4 +10,3 @@ elif side1 == side2 or side2 == side3 or side1 == side3:
 
 else:
     print("Scalene Triangle")
-    
